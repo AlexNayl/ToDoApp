@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lc4f1utc2Z4CxvkfSz4dzJ7U4ZLlBxvDJP7KTFOLdcy5nk0E33Dv/K9Toa7BAm3I78nAA4XGqSpD+WpxdBEsjA==",
+  "dgSpecHash": "aX5HjTrkRxNnmM6QAa5J2of73lSMyAShJKAe+IszKCHoxxo9fIPSX+24PaipXLWnSeKMEE27QM8Fq/EMq9A9eA==",
   "success": true,
   "projectFilePath": "/home/alex/Projects/ToDoApp/ToDoApp.csproj",
   "expectedPackageFiles": [
@@ -79,7 +79,7 @@
     "/home/alex/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
     "/home/alex/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/home/alex/.nuget/packages/tmds.dbus.protocol/0.15.0/tmds.dbus.protocol.0.15.0.nupkg.sha512",
-    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }
