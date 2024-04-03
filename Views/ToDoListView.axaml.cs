@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace ToDoList.Views;
+namespace ToDoApp.Views;
 
 public partial class ToDoListView : UserControl
 {
